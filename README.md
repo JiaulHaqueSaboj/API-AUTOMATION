@@ -30,6 +30,9 @@
   
  ## Test Case
   - Google Drive: https://cutt.ly/1VLBfF3
+  
+ ## Issue Report
+  - Google Drive: https://cutt.ly/cVZjucF
  
  ## Output
  ![Newman-Summary-Report](https://user-images.githubusercontent.com/63944764/192974093-af59d458-92d8-44e6-88d6-edb97dd3cc24.png)
